@@ -1,0 +1,627 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Keywords" />
+<meta name="description" content="Description" />
+<link href="/bitrix/cache/css/s1/estemarco/kernel_main/kernel_main.css?14928757813040" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/estemarco/page_58fe373712684d9f62a94ccefc956b57/page_58fe373712684d9f62a94ccefc956b57.css?14928757812318" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/estemarco/template_dcc331161605d35927f7b70305a22374/template_dcc331161605d35927f7b70305a22374.css?14928754891581" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1492875781','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'671cf9d6571a2a5cf82efe81b8cc26fa'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/estemarco/kernel_main/kernel_main.js?149287578194516"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/templates/estemarco/components/estemarco/news.calendar/traning/style.css','/bitrix/templates/estemarco/components/bitrix/menu/estemarco-mobile-menu/style.css','/bitrix/templates/estemarco/components/bitrix/menu/estemarco-top-menu/style.css']); </script>
+
+
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "103337badcff6f84d3418ec921df7c50"]); _ba.push(["host", "estemarco.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Обучение</title>
+		<meta name="keywords" content="Keywords" />
+		<meta name="description" content="Description" />
+		<meta name="description" content="">
+        <meta name="MobileOptimized" content="320">
+        <meta name="HandheldFriendly" content="True">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /> 	
+		<link type="text/css" rel="stylesheet" href="/bitrix/templates/estemarco/assets/css/bootstrap.css" media="screen">
+		<link type="text/css" rel="stylesheet" href="/bitrix/templates/estemarco/assets/css/style.css" media="screen">
+        <!--[if lt IE 9]>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+		<link type="text/css" rel="stylesheet" href="/bitrix/templates/estemarco/assets/css/media-queries.css" media="screen">
+		<link type="text/css" rel="stylesheet" href="/bitrix/templates/estemarco/assets/css/grid.css" media="screen">
+		<link type="text/css" rel="stylesheet" href="/bitrix/templates/estemarco/assets/css/animate.css" media="screen">
+		<link type="text/css" rel="stylesheet" href="/bitrix/templates/estemarco/assets/css/owl.carousel.min.css" media="screen">
+		
+		<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/jquery-1.8.3.min.js"></script>
+		<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/jquery.fancybox.pack.js"></script>
+		<link rel="stylesheet" href="/bitrix/templates/estemarco/assets/css/fancybox.css" type="text/css" media="screen">
+
+	</head>
+	<body>
+		<div id="panel">
+					</div> 
+	<div id="webSiteLoader"><span></span></div>
+	<div id="pageLoader"><span></span></div>
+	<div id="wrapper" style=" ">
+    
+        <div style="width: 100%; height: 100%; position: fixed; left: 0px; top: 0px; overflow: hidden; z-index: -1;">
+			<div id="bgStretch" style="position: absolute; z-index: -1; left: 0px; right: auto; top: 0px; bottom: auto; height: 1373.28px; width: 1923px;">
+				<img src="/bitrix/templates/estemarco/assets/img/bg.jpg" alt="" style="width: 100%; height: 100%; position: absolute; z-index: -1; left: 0px; top: 0px;">
+			</div>
+		</div>
+    <div id="bgNav">
+        <ul>
+            <li class="active">
+				<a href="/bitrix/templates/estemarco/assets/img/bg.jpg" class="">
+				</a>
+			</li>
+        </ul>
+    </div>
+<nav id="mobile_menu">
+      <div>
+	    <div class="mobile-search">
+<form action="/search/index.php">
+	<input type="search" name="q" placeholder="Поиск" autocomplete="off" /></td>
+
+</form>
+</div> 
+	  </div>
+                    ﻿
+    <script>
+        var show;
+        function hidetxt(type){
+         param=document.getElementById(type);
+         if(param.style.display == "none") {
+         if(show) show.style.display = "none";
+         param.style.display = "block";
+         show = param;
+         }else param.style.display = "none"
+        }
+    </script>
+
+            <ul class="sf-mobile-menu">
+			    										                        													<li><a class="link-mobile-menu" onclick="slideout.toggle();" href="/about/" ><div class="base_text">О компании</div></a>
+                                <div class="div-mobile-menu" id="par1" onclick="hidetxt('sub1');">
+                                    <i class="fa fa-chevron-circle-down i-mobile-menu"></i>
+                                </div>
+								<ul id="sub1" class="sub" style="display:none;">
+																																				<li><a onclick="slideout.toggle();" href="/cooperation/" ><div class="base_text">Условия сотрудничества</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/delivery/" ><div class="base_text">Доставка и оплата</div></a></li>
+																									</ul></li>
+										                        													<li><a class="link-mobile-menu" onclick="slideout.toggle();" href="/production/" ><div class="base_text">Каталог</div></a>
+                                <div class="div-mobile-menu" id="par2" onclick="hidetxt('sub2');">
+                                    <i class="fa fa-chevron-circle-down i-mobile-menu"></i>
+                                </div>
+								<ul id="sub2" class="sub" style="display:none;">
+																																				<li><a onclick="slideout.toggle();" href="/production/section.php?SECTION_ID=1" ><div class="base_text">БОТУЛОТОКСИНЫ</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/production/section.php?SECTION_ID=2" ><div class="base_text">ФИЛЛЕРЫ</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/production/section.php?SECTION_ID=3" ><div class="base_text">МЕЗОТЕРАПИЯ</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/production/section.php?SECTION_ID=4" ><div class="base_text">ПЛАЦЕНТАРНЫЕ ПРЕПАРАТЫ</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/production/section.php?SECTION_ID=5" ><div class="base_text">ЛАТИССЕ</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/production/section.php?SECTION_ID=6" ><div class="base_text">АНТИЦЕЛЛЮЛИТНЫЕ СРЕДСТВА</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/production/section.php?SECTION_ID=7" ><div class="base_text">УХОД ЗА ЛИЦОМ И ТЕЛОМ</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/production/section.php?SECTION_ID=8" ><div class="base_text">СОПУТСТВУЮЩИЕ МАТЕРИАЛЫ</div></a></li>
+																									</ul></li>
+																<li><a onclick="slideout.toggle();" href="/news/" ><div class="base_text">Новости</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/training/" class='current activeLink'><div class="base_text">Обучение</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/partners/" ><div class="base_text">Партнеры</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/pharmacy/" ><div class="base_text">Аптека</div></a></li>
+																														<li><a onclick="slideout.toggle();" href="/contacts/" ><div class="base_text">Контакты</div></a></li>
+																		
+
+
+
+</nav>
+<main id="main_panel">
+    <header>
+        <div id="mobile_v" class="row-fluid">
+            <div class="span2">
+                <button class="toggle-button"><p class="toggle-p">МЕНЮ</p><img src="/bitrix/templates/estemarco/assets/img/mobile-menu.png" /></button>
+            </div>
+            <div class="span8" style="text-align: center;"><a href="/"><img src="/bitrix/templates/estemarco/assets/img/logo.png" alt=""></a></div>
+            <div class="span2">
+                <a href="#" onclick="document.location.href=&quot;/user/login.php&quot;;" id="log"></a>
+            </div>
+        </div>
+			<div id="mobile_v" class="row-fluid mobile-phone-panel" onclick="document.location.href='tel:+74959214503'">
+		<div class="span12"><a href="#">+7 (495)&nbsp;<span>&nbsp;921-45-03</span></a></div>
+    </div>        <div id="desktop_v">
+            <div id="up-button"></div>
+            <div class="line"> 
+                <div class="clearfix"></div></div>
+                 <div class="line" style="opacity: 1;">
+                     <script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/show-searchform.js"></script>
+<div class="header-icon" id="header-icon">
+	<a href="#search" id="search-hide" onclick="showsearch();" style="background:none">Поиск</a>
+	<a class="tel" href="tel:74959214503" style="background-position: 0 -40px;">+7 (495) 921-45-03 </a>
+	<a href="#" style="background-position: 0 -80px;" onclick="document.location.href=&quot;/user/login.php&quot;;" id="log">Личный кабинет</a>
+</div>
+                        <div class="social-icon">
+                           
+
+
+	<!--
+		<a href="https://www.facebook.com/estemarco" target="_blank">
+			<img src="/bitrix/templates/estemarco/assets/img/facebook_white.png"/>
+		</a>
+		<a href="https://www.instagram.com/estemarco.ru/" target="_blank">
+			<img src="/bitrix/templates/estemarco/assets/img/instagram_white.png"/>
+		</a>-->
+
+<!--
+<font size=+2><a class="tel" href="tel:74959214503">+7 (495) 921-45-03 </a> </font>
+-->                        </div>
+                    <div class="search-form">
+<form action="/search/index.php">
+	<input id="search-i" type="search" name="q" value="" size="15" maxlength="50" /></td>
+		
+		
+	<input id="search-s" name="s" type="submit" value="" />
+</form>
+</div> 
+                    <div class="header-tel">
+                        <!--<a class="tel" href="tel:74959214503">+7 (495) 921-45-03 </a></br> <a class="tel" href="tel:74959116750">
++7 (495) 911-67-50</a>-->                    </div>
+                                        <!--<a href="/contacts/" class="btn-link tel-h" data-tab-id="markets">Телефоны регионов</a>-->                    <div class="clearfix"></div>
+                </div>
+                <div class="container" style="display:table; width:auto;">
+                    <h1><a href="/"><img src="/bitrix/templates/estemarco/assets/img/logo.png" alt=""></a></h1>
+                    ﻿
+<div id="menu">
+   <div class="navbar">
+        <div class="navbar-inner">
+            <ul class="sf-menu">
+			    																							<li><a href="/about/" ><div class="base_text">О компании</div></a>
+								<ul class="sub" style="display:none;">
+																																				<li><a href="/cooperation/" ><div class="base_text">Условия сотрудничества</div></a></li>
+																														<li><a href="/delivery/" ><div class="base_text">Доставка и оплата</div></a></li>
+																									</ul></li>
+																							<li><a href="/production/" ><div class="base_text">Каталог</div></a>
+								<ul class="sub" style="display:none;">
+																																				<li><a href="/production/section.php?SECTION_ID=1" ><div class="base_text">БОТУЛОТОКСИНЫ</div></a></li>
+																														<li><a href="/production/section.php?SECTION_ID=2" ><div class="base_text">ФИЛЛЕРЫ</div></a></li>
+																														<li><a href="/production/section.php?SECTION_ID=3" ><div class="base_text">МЕЗОТЕРАПИЯ</div></a></li>
+																														<li><a href="/production/section.php?SECTION_ID=4" ><div class="base_text">ПЛАЦЕНТАРНЫЕ ПРЕПАРАТЫ</div></a></li>
+																														<li><a href="/production/section.php?SECTION_ID=5" ><div class="base_text">ЛАТИССЕ</div></a></li>
+																														<li><a href="/production/section.php?SECTION_ID=6" ><div class="base_text">АНТИЦЕЛЛЮЛИТНЫЕ СРЕДСТВА</div></a></li>
+																														<li><a href="/production/section.php?SECTION_ID=7" ><div class="base_text">УХОД ЗА ЛИЦОМ И ТЕЛОМ</div></a></li>
+																														<li><a href="/production/section.php?SECTION_ID=8" ><div class="base_text">СОПУТСТВУЮЩИЕ МАТЕРИАЛЫ</div></a></li>
+																									</ul></li>
+																<li><a href="/news/" ><div class="base_text">Новости</div></a></li>
+																														<li><a href="/training/" class='current activeLink'><div class="base_text">Обучение</div></a></li>
+																														<li><a href="/partners/" ><div class="base_text">Партнеры</div></a></li>
+																														<li><a href="/pharmacy/" ><div class="base_text">Аптека</div></a></li>
+																														<li><a href="/contacts/" ><div class="base_text">Контакты</div></a></li>
+																		        </div>
+    </div>
+</div> 
+
+
+
+
+
+                 </div>
+                 <div class="banners">
+                    <ul>
+                        <li>
+                        <!--<a href="/production/section.php?SECTION_ID=1" class="activeLink">
+<img alt="текущие предложения" src="/bitrix/templates/estemarco/assets/img/banners/banner.jpg"></a>-->                        </li>
+                    </ul>
+                </div>
+            </div>
+	</header>
+		
+	<div class="global">
+    <div class="contentHolder animated" style="margin-top: 25px;" id="ajax_content">
+		<div class="content">
+	<div class="container">
+	
+						<div class="row">
+	<h2>Обучение</h2>
+	<div id="comp_e943cefaff71d99c4f46c634287d911e"><div class="row"> 
+												<label>
+						Укажите город:
+					&nbsp;&nbsp;
+										<select onChange="b1_result()" name="SITY_SELECT" id="sity_sel">
+													<option value="/training/?sity=9&amp;month=2&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" selected>Москва</option>
+													<option value="/training/?sity=10&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Волгоград</option>
+													<option value="/training/?sity=11&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Красноярск</option>
+													<option value="/training/?sity=12&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Нижний Новгород</option>
+													<option value="/training/?sity=13&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Ангарск</option>
+													<option value="/training/?sity=14&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Владивосток</option>
+													<option value="/training/?sity=15&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Владимир</option>
+													<option value="/training/?sity=16&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Воронеж</option>
+													<option value="/training/?sity=17&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Екатеринбург</option>
+													<option value="/training/?sity=18&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Казань</option>
+													<option value="/training/?sity=19&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Краснодар</option>
+													<option value="/training/?sity=20&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Липецк</option>
+													<option value="/training/?sity=21&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Великий Новгород</option>
+													<option value="/training/?sity=22&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Новосибирск</option>
+													<option value="/training/?sity=23&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Омск</option>
+													<option value="/training/?sity=24&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Оренбург</option>
+													<option value="/training/?sity=25&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Пермь</option>
+													<option value="/training/?sity=26&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Ростов-на-Дону</option>
+													<option value="/training/?sity=27&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Самара</option>
+													<option value="/training/?sity=28&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Санкт-Петербург</option>
+													<option value="/training/?sity=29&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Тверь</option>
+													<option value="/training/?sity=30&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Тольятти</option>
+													<option value="/training/?sity=31&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Тюмень</option>
+													<option value="/training/?sity=32&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Уфа</option>
+													<option value="/training/?sity=33&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Хабаровск</option>
+													<option value="/training/?sity=34&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Чебоксары</option>
+													<option value="/training/?sity=35&amp;month=4&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Челябинск</option>
+											</select>
+					&nbsp;&nbsp;
+					</label>
+					<script language="JavaScript" type="text/javascript">
+					<!--
+					function b1_result()
+					{
+						var idx = document.getElementById("sity_sel").selectedIndex;
+													BX.ajax.insertToNode(document.getElementById("sity_sel").options[idx].value, 'comp_e943cefaff71d99c4f46c634287d911e', false);
+											}
+					-->
+					</script>
+													<label>
+						Укажите месяц:
+					&nbsp;&nbsp;
+										<select onChange="b_result()" name="MONTH_SELECT" id="month_sel">
+													<option value="/training/?sity=9&amp;month=4&amp;year=2017" selected>Апрель 2017</option>
+													<option value="/training/?sity=9&amp;month=2&amp;year=2017&amp;bxajaxid=e943cefaff71d99c4f46c634287d911e" >Февраль 2017</option>
+											</select>
+					&nbsp;&nbsp;
+					</label>
+					<script language="JavaScript" type="text/javascript">
+					<!--
+					function b_result()
+					{
+						var idx = document.getElementById("month_sel").selectedIndex;
+													BX.ajax.insertToNode(document.getElementById("month_sel").options[idx].value, 'comp_e943cefaff71d99c4f46c634287d911e', false);
+											}
+					-->
+					</script>
+					<br />
+	<br />
+		<table class="calendar" cellspacing="0"><tbody>
+	<tr>
+			<th>Пн</th>
+			<th>Вт</th>
+			<th>Ср</th>
+			<th>Чт</th>
+			<th>Пт</th>
+			<th>Сб</th>
+			<th>Вс</th>
+		</tr>
+		<tr>
+				<td >
+			<span class="daynum">
+				27			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				28			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				29			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				30			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				31			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				1			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				2			</span>
+					</td>
+			</tr >
+		<tr>
+				<td >
+			<span class="daynum">
+				3			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				4			</span>
+							<div class="eventday">
+                    <strong></strong>
+					<p style="line-height:1;margin-bottom:6px;">
+						Средняя треть: Волюметрические методы коррекции средней трети лица препаратом Juvederm® Voluma™ with Lidocaine					</p>
+					<p style="line-height:1;">
+						<font color="darkblue">Коновка Е.П.</font>
+					<br>
+						<font color="#f9a211">Учебный центр &#40;Москва, ул. Станиславского, д. 21, стр. 2, 3-й этаж&#41;</font>
+					</p>
+										</a>
+				</div>
+					</td>
+				<td >
+			<span class="daynum">
+				5			</span>
+							<div class="eventday">
+                    <strong></strong>
+					<p style="line-height:1;margin-bottom:6px;">
+						Применение интрадермальных имплантатов на основе гиалуроновой кислоты коллекции VYCROSS™ и Juvederm® Ultra при коррекции инволюционных изменений кожи (Практика)					</p>
+					<p style="line-height:1;">
+						<font color="darkblue">Буянова Е.Ю.</font>
+					<br>
+						<font color="#f9a211">РУДН &#40;г. Москва, ул. Миклухо-Маклая, д. 6&#41;</font>
+					</p>
+										</a>
+				</div>
+					</td>
+				<td >
+			<span class="daynum">
+				6			</span>
+							<div class="eventday">
+                    <strong></strong>
+					<p style="line-height:1;margin-bottom:6px;">
+						Ботокс® для практикующих врачей					</p>
+					<p style="line-height:1;">
+						<font color="darkblue">Автомонов Владимир Юрьевич</font>
+					<br>
+						<font color="#f9a211">Учебный центр &#40;Москва, ул. Станиславского, д. 21, стр. 2, 3-й этаж&#41;</font>
+					</p>
+										</a>
+				</div>
+					</td>
+				<td >
+			<span class="daynum">
+				7			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				8			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				9			</span>
+					</td>
+			</tr >
+		<tr>
+				<td >
+			<span class="daynum">
+				10			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				11			</span>
+							<div class="eventday">
+                    <strong></strong>
+					<p style="line-height:1;margin-bottom:6px;">
+						Периоральная область					</p>
+					<p style="line-height:1;">
+						<font color="darkblue">Гутоп Екатерина Олеговна</font>
+					<br>
+						<font color="#f9a211">Учебный центр &#40;Москва, ул. Станиславского, д. 21, стр. 2, 3-й этаж&#41;</font>
+					</p>
+										</a>
+				</div>
+					</td>
+				<td >
+			<span class="daynum">
+				12			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				13			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				14			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				15			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				16			</span>
+					</td>
+			</tr >
+		<tr>
+				<td >
+			<span class="daynum">
+				17			</span>
+							<div class="eventday">
+                    <strong></strong>
+					<p style="line-height:1;margin-bottom:6px;">
+						Применение интрадермальных имплантатов на основе гиалуроновой кислоты коллекции VYCROSS™ и Juvederm® Ultra при коррекции инволюционных изменений кожи (Практика)					</p>
+					<p style="line-height:1;">
+						<font color="darkblue">Буянова Е.Ю.</font>
+					<br>
+						<font color="#f9a211">РУДН &#40;г. Москва, ул. Миклухо-Маклая, д. 6&#41;</font>
+					</p>
+										</a>
+				</div>
+					</td>
+				<td >
+			<span class="daynum">
+				18			</span>
+							<div class="eventday">
+                    <strong></strong>
+					<p style="line-height:1;margin-bottom:6px;">
+						Основная концепция бьютификации и научный подход к кодированию лица по системе MD Codes™					</p>
+					<p style="line-height:1;">
+						<font color="darkblue">Автомонов В.Ю./Буянова Е.Ю./Коновка Е.П./Капулер О.М./Терентьева Л.В.</font>
+					<br>
+						<font color="#f9a211">Редиссон Роял, Wellness Clinic &#40;Москва, Кутузовский проспект, 2/1с1&#41;</font>
+					</p>
+										</a>
+				</div>
+					</td>
+				<td >
+			<span class="daynum">
+				19			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				20			</span>
+							<div class="eventday">
+                    <strong></strong>
+					<p style="line-height:1;margin-bottom:6px;">
+						Волюметрические методы коррекции  средней трети лица препаратом Juvederm® Voluma™ with Lidocaine					</p>
+					<p style="line-height:1;">
+						<font color="darkblue">Буянова Елена Юрьевна</font>
+					<br>
+						<font color="#f9a211">Учебный центр &#40;Москва, ул. Станиславского, д. 21, стр. 2, 3-й этаж&#41;</font>
+					</p>
+										</a>
+				</div>
+					</td>
+				<td >
+			<span class="daynum">
+				21			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				22			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				23			</span>
+					</td>
+			</tr >
+		<tr>
+				<td >
+			<span class="daynum">
+				24			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				25			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				26			</span>
+					</td>
+				<td >
+			<span class="daynum">
+				27			</span>
+							<div class="eventday">
+                    <strong></strong>
+					<p style="line-height:1;margin-bottom:6px;">
+						Коррекция периорбитальной  области и верхней трети лица. УРОВЕНЬ 1					</p>
+					<p style="line-height:1;">
+						<font color="darkblue">Автомонов Владимир Юрьевич</font>
+					<br>
+						<font color="#f9a211">Учебный центр &#40;Москва, ул. Станиславского, д. 21, стр. 2, 3-й этаж&#41;</font>
+					</p>
+											<a class="traning-registration-btn" href="/training-registration/?id_registration=121">Регистрация						</a>
+											</a>
+				</div>
+					</td>
+				<td >
+			<span class="daynum">
+				28			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				29			</span>
+					</td>
+				<td class="holyday">
+			<span class="daynum">
+				30			</span>
+					</td>
+			</tr >
+		</tbody>
+	</table>
+	</div>
+</div></div>
+    </div>
+    </div>
+        </div>
+    </div>
+        <footer>    
+            <div class="container">
+                <div class="row">
+                    <div class="adress social-icon">
+                        <span>
+                        <b>Адрес:</b><br>
+ г. Москва, ул. Вересаева, д. 8<br><br>
+ <b>Телефоны:<br>
+ </b>
+<a href="tel:74959214503">+7 (495) 921-45-03</a> <br>
+<a href="tel:74959116750">+7 (495) 911-67-50</a><br>
+
+<a href="/contacts/" class="btn-link tel-h" data-tab-id="markets">Телефоны представительств</a>
+</br>                        <br>
+                        
+<b>Мы в социальных сетях:<b>
+<ul>
+	<li>
+		<a href="https://www.facebook.com/estemarco" target="_blank">
+			<img src="/bitrix/templates/estemarco/assets/img/Facebook_Color.png"/>
+		</a>
+	</li>
+	<li>
+		<a href="https://www.instagram.com/estemarco.ru/" target="_blank">
+			<img src="/bitrix/templates/estemarco/assets/img/Instagram_Color.png"/>
+		</a>
+	</li>
+</ul>                        </span>
+                    </div>
+                    <br>
+                    <div class="map-footer">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2247.2313228324906!2d37.444278!3d55.719732!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54e9734466e87%3A0x252d89256240899d!2z0YPQuy4g0JLQtdGA0LXRgdCw0LXQstCwLCA4LCDQnNC-0YHQutCy0LAsIDEyMTM1Nw!5e0!3m2!1sru!2sru!4v1408004944722" width="100%" height="300" frameborder="0" style="border:0">
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </main>
+    <script src="/bitrix/templates/estemarco/assets/js/slideout.min.js"></script>
+    <script>
+      var slideout = new Slideout({
+        'panel': document.getElementById('main_panel'),
+        'menu': document.getElementById('mobile_menu'),
+        'padding': 256,
+        'duration':5,
+        'tolerance': 70
+      });
+
+      // Toggle button
+      document.querySelector('.toggle-button').addEventListener('click', function() {
+        slideout.toggle();
+      });
+    </script>
+	</div>
+	</body>
+	
+	<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/jquery.fancybox.pack.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/spin.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/inputmask.min.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/jquery.inputmask.min.js"></script>
+	<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/owl.carousel.min.js"></script>
+
+	<!--<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/ajax.js.switch.js"></script>-->
+
+	<script type="text/javascript" src="/bitrix/templates/estemarco/assets/js/script.js"></script>
+	
+	<script type="text/javascript">
+$(function(){
+$("a#single_image").fancybox();
+});
+</script>
+	
+</html>
